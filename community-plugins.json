@@ -11114,5 +11114,12 @@
     "author": "kirito",
     "description": "Publish your blog to hugo site.",
     "repo": "kirito41dd/obsidian-hugo-publish"
+  },
+  {
+    "id": "supernote",
+    "name": "Supernote by Ratta Integration",
+    "author": "philips",
+    "description": "View Supernote notes, generate markdown from note and capture screen mirror.",
+    "repo": "philips/obsidian-plugin-supernote"
   }
 ]
